@@ -46,7 +46,7 @@ class Controle_Remoto:
     def canal_menos(self):
         if self.ligado:
             if self.canal_atual==Controle_Remoto.canal_min:
-                self.canal_atual==Controle_Remoto.canal_max
+                self.canal_atual=Controle_Remoto.canal_max
             else:
                 self.canal_atual-=1
 
