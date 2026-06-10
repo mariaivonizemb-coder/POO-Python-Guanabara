@@ -70,4 +70,4 @@ Este exercício foi desenvolvido para praticar conceitos fundamentais de Program
 
 **Maria Ivonize**
 
-Estudante de Nutrição, entusiasta de tecnologia e programação, atualmente aprofundando seus conhecimentos em Python e Programação Orientada a Objetos.
+Estudante de Tecnologia da Informação, entusiasta de tecnologia e programação, atualmente aprofundando seus conhecimentos em Python e Programação Orientada a Objetos.
